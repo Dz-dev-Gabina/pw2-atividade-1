@@ -1,0 +1,30 @@
+package br.com.etechoracio.enums.ExFisico;
+
+public enum MusculoEnum {
+    Deltoides,
+    BicepsBraquial,
+    TricepsBraquial,
+    Braquial,
+    Braquiorradial,
+    FlexoresdoPunho,
+    ExtensoresdoPunho,
+    PeitoralMaior,
+    PeitoralMenor,
+    LatissimodoDorso,
+    Trapezio,
+    Romboides,
+    EretoresdaEspinha,
+    SerratilAnterior,
+    RetoAbdominal,
+    Obliquos,
+    TransversodoAbdomen,
+    GluteoMaximo,
+    GluteoMedio,
+    GluteoMinimo,
+    Quadriceps,
+    Isquiotibiais,
+    Adutores,
+    Gastrocnemio,
+    Soleo,
+    TibialAnterior;
+}
